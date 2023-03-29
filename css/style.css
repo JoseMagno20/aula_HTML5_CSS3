@@ -1,0 +1,27 @@
+body{
+    background: rgb(250, 212, 212);
+    margin-left: 50px;
+    margin-right: 500px;
+}
+header{
+    margin-top: 50px;
+}
+h1{
+    color: black;
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+}
+section{
+    margin-top: 100px;
+}
+p{
+    font-size: 20px;
+}
+img{
+    margin-bottom: 20px;
+}
+footer{
+    margin-bottom: 30px;
+}
